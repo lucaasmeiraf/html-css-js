@@ -1,0 +1,29 @@
+header {
+  background-color: rgb(56, 56, 56);
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: rgb(146, 143, 143);
+  color: rgb(26, 25, 25);
+  width: 100%;
+  height: 100%;
+  font: normal 20pt Arial;
+}
+
+.Navbar {
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logo{
+    margin: 0;
+}
+
+.redes-sociais {
+  display: flex;
+  align-items: center;
+}
